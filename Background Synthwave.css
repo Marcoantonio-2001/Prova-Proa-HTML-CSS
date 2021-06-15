@@ -1,0 +1,16 @@
+body {
+    width: 100%;
+    height: 100%;
+    color:rgb(0, 0, 0);
+    background: url(Imagens/Background/Synthwave.jpg);
+    background-size: 100%;
+    font-family: 'Rocket Rinder';
+    font-weight: 100;
+    }
+
+    @font-face {
+        font-family: 'Rocket Rinder';
+        src: url("RocketRinder-yV5d.TTF");
+        }
+
+    
